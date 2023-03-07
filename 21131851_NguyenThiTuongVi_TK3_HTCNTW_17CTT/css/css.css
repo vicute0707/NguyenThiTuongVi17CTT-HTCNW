@@ -1,0 +1,166 @@
+#wrapper{
+    width: 90%;
+    height: 90%;
+    border: 1px solid black;
+    margin: 5%;
+}
+header{
+    width: 100%;
+    height: 10%;
+    background-color:#2c4c87;
+    margin: 0px;
+}
+.header_one{
+    width: 100%;
+    height: 75%;
+    background-color:#2c4c87;
+    
+}
+
+.logo{
+    width: 40%;
+    height: 80%;
+    float: left;
+
+
+}
+.logo img{
+    width: 100%;
+}
+.form-timkiem{
+    float: right;
+    width: 19%;
+    height: 75%;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    margin-left: 40%;
+
+}
+#search{
+    border: 1px solid rgb(135, 135, 212);
+    background-color: rgb(10, 10, 32);
+    color: white;
+}
+#search button{
+    border: 1px solid rgb(135, 135, 212); 
+    background-color: rgb(10, 10, 32);
+    color: white;
+
+
+}
+.header_two{
+    height: 25%;
+    background-color: #2c4c87;
+}
+.header_two li {
+    list-style: none;
+    font-weight: 600;
+    display: inline-flex;
+
+}
+.header_two li a{
+    color: white;
+    text-decoration: none;
+    background-color: #657acf;
+    padding: 14px;
+    margin-bottom: 8px;
+    margin-left: 34px;
+    margin-right: 10px;
+}
+/* section{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 75%;
+    width: 100%;
+} */
+.form-trai{
+    width: 60%;
+    float: left;
+    margin-right: 10%;
+}
+.form-phai{
+    width: 40%;
+    float:right;
+}
+
+.form-trai h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(143, 132, 132);
+    border-bottom: 2px dashed #6f6565;
+    padding-bottom: 20px;
+    
+}
+.form-thongtin{
+    width: 60%;
+    float: left;
+}
+.form-thongtin{
+    color: #797575;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form-vi{
+    width: 40%;
+    float: right;
+    
+}
+.hoang{
+    width: 50%;
+    float: left;
+}
+.tuongvi{
+    width: 30%;
+    float: left;
+    padding: 10px;
+
+}
+.form-vi{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #797575;
+   
+}
+.form-vi h3{
+    border-bottom: 2px dashed #6f6565;
+    padding-bottom: 20px;
+}
+.form-vi p{
+    padding-top: 17px;
+}
+.form-phai{
+    margin-top: 20px;
+    width: 25%;
+    float: right;
+    background-color: #E6E6FA;
+    padding: 20px;
+    margin-bottom: 98px;
+}
+.form-phai h3{
+    color: #797575;
+    border-bottom: 2px dashed #797575 ;
+    padding-bottom: 20px;
+}
+.hoangvi{
+    width: 7    0%;
+    height: 80%;
+    border: 2px solid #797575;
+    padding-left: 16px;
+    padding-top: 5px;
+
+}
+.form-phai img{
+    width: 90%;
+    height: 90%;
+
+}
+.form-phai a {
+    color: #657acf;
+    margin-left: 70%;
+    font-weight: 700;
+    text-decoration: none;
+}
+.text-footer{
+    width: 40%;
+    float: left;
+}
+
